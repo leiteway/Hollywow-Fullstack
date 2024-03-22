@@ -8,7 +8,7 @@ This repository serves as a collaborative study project for classes, encompassin
 ### Components:
 
 - **Frontend:** Contains the frontend codebase developed by other team:
-  <br>Frontend folder contains a README that explains more about that project.
+  <br>Frontend folder contains a README that explains more about that project. This project does not belong to me.
   
 - **Backend:** Houses the backend codebase for our API development:
   <br>Backend folder contains a README that explains more about that project.
