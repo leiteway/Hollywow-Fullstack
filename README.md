@@ -5,6 +5,8 @@
 
 This repository serves as a collaborative study project for classes, encompassing both the frontend and backend components of our API project. The purpose of this project is for educational study purposes.
 
+#### The project is under development, so you'll find it on the 'dev' branch.
+
 ### Components:
 
 - **Frontend:** Contains the frontend codebase developed by other team:
